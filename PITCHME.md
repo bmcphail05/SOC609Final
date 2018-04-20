@@ -22,7 +22,7 @@ Note:
 One of the major questions in the sociology of religion deals with the r
 
 
----?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/USrank.png&size=90%
+---?image=https://raw.githubusercontent.com/bmcphail05/SOC609/master/att-decline-US.jpg&size=90%
 
 
 Voas charts?
