@@ -24,6 +24,6 @@ One of the major questions in the sociology of religion deals with the r
 ---?image=SOC609Final/att-decline-US.jpg
 
 
-Voas charts?
+Voas charts? test
 
 Religious declin      
