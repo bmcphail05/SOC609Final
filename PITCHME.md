@@ -1,8 +1,7 @@
 
-## Atheist Privilege,  
-## Religious Penalty?
-**The Socioeconomic Consequences of  
-Religiosity in Contemporary China**
+## Religious Heterogamy &
+## the Intergenerational Transmission of Religion
+**A Network Explanation**
 <br>
 <br>
 April 24, 2018
@@ -27,4 +26,4 @@ One of the major questions in the sociology of religion deals with the r
 
 Voas charts?
 
-Religious declin
+Religious declin      
