@@ -11,7 +11,7 @@ April 24, 2018
 Purdue University  
 
 ---
-# Previous Research
+## Previous Research
 
 Religious heterogamy produces less religious children.
 
@@ -21,7 +21,7 @@ Note:
 One of the major questions in the sociology of religion deals with the r
 
 
----?image=https://raw.githubusercontent.com/bmcphail05/SOC609/master/att-decline-US.jpg&size=90%
+---?image=https://github.com/bmcphail05/SOC609Final/blob/master/att-decline-US.jpg?raw=true&size=90%
 
 
 Voas charts?
