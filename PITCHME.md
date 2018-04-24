@@ -48,7 +48,7 @@ Having interreligious parents is associated with *decreased* levels of religiosi
 
 ---
 
-1 - Parents "channel" their child into situations where he/she develops ties with others. This happens both incidentally and intentionally.  
+1 - Parents "channel" their child into situations where he/she develops ties with others.
 
 2 - The social ties into which parents channel their child are largely determined by the social ties of the parents themselves.  
 
