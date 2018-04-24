@@ -77,8 +77,17 @@ Having interreligious parents is associated with *decreased* levels of religiosi
 A child's social ties to a particular religion are stronger and greater in number when the parents have the same religion.
 
 **HYPOTHESIS 1b**:  
-A child's social ties to a particular religion are weaker and fewer in number when the parents do NOT share a religion. 
+A child's social ties to a particular religion are weaker and fewer in number when the parents do NOT share a religion.
 ---
 
 **HYPOTHESIS 2**:  
 If a child's network structure favors one of the parent's network more than the other, then the child is more likely to adopt that parent's religion/irreligion.
+
+---
+**Summary**:  
+
+Parents' ties strongly influences ties of their child.  
+
+If parents' networks include a lot of ties to particular religion, then the child will develop ties with them and eventually adopt that religion.
+
+Because interreligious parents expose their children to fewer ties to a particular religion, their children are less likely to be religious. 
