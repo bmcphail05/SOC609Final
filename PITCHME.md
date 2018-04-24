@@ -64,7 +64,7 @@ Having interreligious parents is associated with *decreased* levels of religiosi
 
 5a - Same faith parents have a greater strength and number of ties to their religion because:  
   i - they are more religious.  
-  ii - the two parents are more likely to have overlapping and dense social networks.  
+  ii - the two parents are more likely to have overlapping social networks.  
   iii - the ties the two parents do not share are still likely to be of the same religion.
 ---
 
